@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Selenium POC\Selenium POC\bin\Debug\netcoreapp3.1\Selenium POC.exe
+C:\Users\User\source\repos\Selenium POC\Selenium POC\bin\Debug\netcoreapp3.1\Selenium POC.deps.json
+C:\Users\User\source\repos\Selenium POC\Selenium POC\bin\Debug\netcoreapp3.1\Selenium POC.runtimeconfig.json
+C:\Users\User\source\repos\Selenium POC\Selenium POC\bin\Debug\netcoreapp3.1\Selenium POC.runtimeconfig.dev.json
+C:\Users\User\source\repos\Selenium POC\Selenium POC\bin\Debug\netcoreapp3.1\Selenium POC.dll
+C:\Users\User\source\repos\Selenium POC\Selenium POC\bin\Debug\netcoreapp3.1\Selenium POC.pdb
+C:\Users\User\source\repos\Selenium POC\Selenium POC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Selenium POC\Selenium POC\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\User\source\repos\Selenium POC\Selenium POC\obj\Debug\netcoreapp3.1\Selenium POC.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Selenium POC\Selenium POC\obj\Debug\netcoreapp3.1\Selenium POC.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Selenium POC\Selenium POC\obj\Debug\netcoreapp3.1\Selenium POC.AssemblyInfo.cs
+C:\Users\User\source\repos\Selenium POC\Selenium POC\obj\Debug\netcoreapp3.1\Selenium POC.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Selenium POC\Selenium POC\obj\Debug\netcoreapp3.1\Selenium POC.csproj.CopyComplete
+C:\Users\User\source\repos\Selenium POC\Selenium POC\obj\Debug\netcoreapp3.1\Selenium POC.dll
+C:\Users\User\source\repos\Selenium POC\Selenium POC\obj\Debug\netcoreapp3.1\Selenium POC.pdb
+C:\Users\User\source\repos\Selenium POC\Selenium POC\obj\Debug\netcoreapp3.1\Selenium POC.genruntimeconfig.cache
